@@ -1,3 +1,4 @@
+{
 "Wasser": { kanji: "水", lesung: "みず" },
 "Feuer": { kanji: "火", lesung: "ひ" },
 "Baum": { kanji: "木", lesung: "き" },
@@ -48,3 +49,4 @@
 "Stadt": { kanji: "町", lesung: "まち" },
 "Weg": { kanji: "道", lesung: "みち" },
 "Blume": { kanji: "花", lesung: "はな" }
+}
